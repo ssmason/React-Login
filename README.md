@@ -1,5 +1,5 @@
 
-# Set React App
+# React Login component
 
 **Author:** [Stephen Mason]  
 
